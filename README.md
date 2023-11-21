@@ -12,7 +12,7 @@
 
 ## Tools:
 <div display="flex">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svgriginal.svg" alt="git" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="git" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="65" height="65"/>
 </div>
 
