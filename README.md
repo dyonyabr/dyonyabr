@@ -23,7 +23,7 @@
 
 ## Eng lvl:
 <div display="flex">
-  <img src="https://a.storyblok.com/f/79503/250x250/06b24a6412/group-3.png" alt="eng_lvl" width="65" height="65"/>
+  <img src="https://o.remove.bg/downloads/cb4fb245-f0b9-44ac-a5a9-56e9d8de7aaf/%D1%814-removebg-preview.png" alt="eng_lvl" width="65" height="65"/>
 </div>
 
 <h2>Connect with me: </h2>
