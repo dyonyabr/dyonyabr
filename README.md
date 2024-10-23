@@ -18,13 +18,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="65" height="65"/>
 </div>
 
-## Engines:
-<div display="flex">
-</div>
-
 ## Eng lvl:
 <div display="flex">
-  <img src="https://languageconsultants.it/wp-content/uploads/2017/12/CEFR_C1.png" alt="eng_lvl" width="65" height="65"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNNMmEOh7ZgY3CnfV3n3nBxydbTluRxGETg&s" alt="eng_lvl" width="65" height="65"/>
 </div>
 
 <h2>Connect with me: </h2>
