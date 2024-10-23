@@ -11,14 +11,15 @@
 
 ## Tools:
 <div display="flex">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="65" height="65"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg/220px-L%C3%96VE_app_icon_%280.10.1%29.svg.png" alt="Love2D" width="65" height="65"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="RayLib" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="git" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="65" height="65"/>
 </div>
 
 ## Engines:
 <div display="flex">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="65" height="65"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg/220px-L%C3%96VE_app_icon_%280.10.1%29.svg.png" alt="Love2D" width="65" height="65"/>
 </div>
 
 ## Eng lvl:
