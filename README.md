@@ -6,6 +6,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" alt="c++" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" alt="c#" width="65" height="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="65" height="65"/>
 </div>
 
 ## Tools:
@@ -17,6 +18,7 @@
 ## Engines:
 <div display="flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="godot" width="65" height="65"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg/220px-L%C3%96VE_app_icon_%280.10.1%29.svg.png" alt="Love2D" width="65" height="65"/>
 </div>
 
 ## Eng lvl:
