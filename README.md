@@ -20,7 +20,7 @@
 
 ## Eng lvl:
 <div display="flex">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNNMmEOh7ZgY3CnfV3n3nBxydbTluRxGETg&s" alt="eng_lvl" width="65" height="65"/>
+  <img src="https://c1brokers.pt/wp-content/uploads/2021/06/C1-Logo-512.png" alt="eng_lvl" width="65" height="65"/>
 </div>
 
 <h2>Connect with me: </h2>
